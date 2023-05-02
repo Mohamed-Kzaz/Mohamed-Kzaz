@@ -15,3 +15,6 @@
 <a href="https://www.linkedin.com/in/mohamed-elkazaz-609536255/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-elkazaz-609536255/" height="30" width="40" /></a>
 </p>
 
+
+# 💻 Tech Stack
+![C#](https://raw.githubusercontent.com/devicons/devicon/master/icons//csharp/csharp-original.svg))
