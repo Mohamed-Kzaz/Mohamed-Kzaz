@@ -26,5 +26,5 @@
 <img src="https://user-images.githubusercontent.com/81612480/170158125-06d02884-224c-49a7-a455-8877279389f2.jpg" width="60" height="40"/> 
 <img src="https://user-images.githubusercontent.com/59020581/117362577-18555280-aec4-11eb-94ef-401c9f28eb38.png" width="60" height="40"/> 
 <img src="https://user-images.githubusercontent.com/81612480/170163379-f53ba965-2c0f-4c95-9a53-a5dd61c7d058.jpg" width="60" height="40"/> 
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="60" height="40"/> 
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="30" height="40"/> 
 </p>
