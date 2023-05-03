@@ -25,5 +25,5 @@
 <img src="https://codeopinion.com/wp-content/uploads/2017/10/Bitmap-MEDIUM_Entity-Framework-Core-Logo_2colors_Square_Boxed_RGB.png" width="60" height="40"/> 
 <img src="https://user-images.githubusercontent.com/81612480/170158125-06d02884-224c-49a7-a455-8877279389f2.jpg" width="60" height="40"/> 
 <img src="https://user-images.githubusercontent.com/59020581/117362577-18555280-aec4-11eb-94ef-401c9f28eb38.png" width="60" height="40"/> 
-<img src="https://user-images.githubusercontent.com/81612480/170480203-60c67047-34c5-4254-8b61-93959d793b60.png" width="60" height="40"/> 
+<img src="https://user-images.githubusercontent.com/81612480/170163379-f53ba965-2c0f-4c95-9a53-a5dd61c7d058.jpg" width="60" height="40"/> 
 </p>
