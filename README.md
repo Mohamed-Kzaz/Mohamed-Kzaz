@@ -18,4 +18,4 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <img src="https://cdnlogo.com/logo/c_36494.html" width="40" height="40"/> 
+<p align="left"> <img src="c-logo-icon-28402.png" width="40" height="40"/> 
