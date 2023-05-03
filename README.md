@@ -18,3 +18,4 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons//csharp/csharp-original.svg" width="40" height="40" />  
+<img src="https://upload.wikimedia.org/wikipedia/de/thumb/8/8c/Microsoft_SQL_Server_Logo.svg/2000px-Microsoft_SQL_Server_Logo.svg.png"                                  alt="sqlserver" width="60" height="40"/>
