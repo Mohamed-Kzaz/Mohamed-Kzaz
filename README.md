@@ -17,6 +17,3 @@
 
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <img src="https://cdnlogo.com/logo/c_36494.html" width="40" height="40"/> 
-<p align="left"> <img src="https://github.com/Mohamed-Kzaz/Mohamed-Kzaz/blob/main/kisspng-microsoft-sql-server-database-server-database-admi-server-5ad641f336afa0.152015451523991027224.png" width="40" height="40"/> 
