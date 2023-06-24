@@ -17,10 +17,7 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-<img src="https://user-images.githubusercontent.com/81612480/170163379-f53ba965-2c0f-4c95-9a53-a5dd61c7d058.jpg" width="60" height="40"/> 
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="60" height="40"/> 
+![C#]https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
 </p>
 
 
