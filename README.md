@@ -17,9 +17,9 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-![C#]https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 </p>
-
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Kzaz&layout=compact&hide=html" alt="Mohamed-Kzaz" /></p>
 
