@@ -21,7 +21,6 @@ especially Back-End Development.</p>
 ![Web API](https://img.shields.io/badge/Web%20API-005571?style=for-the-badge&logo=.net&logoColor=white)
 
 ## You can reach me here
-[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](MohamedElkazaz30@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-elkazaz-609536255/)
 
 📫 How to reach me **MohamedElkazaz30@gmail.com**
